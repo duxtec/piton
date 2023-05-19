@@ -19,7 +19,7 @@ Para começar a utilizar a biblioteca Píton, siga estes passos simples:
 3. Execute o seguinte comando para instalar a biblioteca:
 
 ```shell
-pip install piton
+pip install pitonbr
 ```
 #
 
@@ -28,7 +28,7 @@ pip install piton
 Após a instalação, você está pronto para começar a utilizar a Píton em seus projetos Python. Importe todos os módulos e funções com o seguinte comando e comece a explorar:
 
 ```python
-from piton import *
+from pitonbr import *
 ```
 #
 
