@@ -1,16 +1,16 @@
-from piton.conversor import literal
-from piton.conversor import inteiro
-from piton.conversor import literal
-from piton.conversor import flutuante
-from piton.conversor import literal
-from piton.conversor import complexo
-from piton.conversor import booleano
-from piton.conversor import lista
-from piton.conversor import conjunto
-from piton.conversor import dicionario
-from piton.conversor import tupla
+from pitonbr.conversor import literal
+from pitonbr.conversor import inteiro
+from pitonbr.conversor import literal
+from pitonbr.conversor import flutuante
+from pitonbr.conversor import literal
+from pitonbr.conversor import complexo
+from pitonbr.conversor import booleano
+from pitonbr.conversor import lista
+from pitonbr.conversor import conjunto
+from pitonbr.conversor import dicionario
+from pitonbr.conversor import tupla
 
-from piton.escritor import limpe_tela
+from pitonbr.escritor import limpe_tela
 
 limpe_tela()
 

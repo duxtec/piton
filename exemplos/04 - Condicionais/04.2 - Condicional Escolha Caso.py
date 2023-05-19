@@ -1,5 +1,5 @@
-from piton import limpe_tela
-from piton.condicionador import escolha
+from pitonbr import limpe_tela
+from pitonbr.condicionador import escolha
 from datetime import date
 
 limpe_tela()

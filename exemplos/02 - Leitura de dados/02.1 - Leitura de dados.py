@@ -1,6 +1,6 @@
-from piton.ledor import leia
-from piton.escritor import escreva
-from piton.escritor import limpe_tela
+from pitonbr.ledor import leia
+from pitonbr.escritor import escreva
+from pitonbr.escritor import limpe_tela
 
 limpe_tela()
 

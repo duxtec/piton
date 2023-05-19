@@ -1,10 +1,10 @@
-from piton.condicionador import se
-from piton.ledor import leia
-from piton.escritor import escreva
-from piton.tipo import tipo
-from piton.conversor import inteiro
-from piton.escritor import limpe_tela
-from piton.escritor import pule_linha
+from pitonbr.condicionador import se
+from pitonbr.ledor import leia
+from pitonbr.escritor import escreva
+from pitonbr.tipo import tipo
+from pitonbr.conversor import inteiro
+from pitonbr.escritor import limpe_tela
+from pitonbr.escritor import pule_linha
 from datetime import date
 
 limpe_tela();

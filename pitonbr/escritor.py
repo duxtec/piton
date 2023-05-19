@@ -1,7 +1,7 @@
 import os
 import re
-from piton.conversor import literal
-from piton.tipo import tipo
+from pitonbr.conversor import literal
+from pitonbr.tipo import tipo
 
 def escreva(dado=""):
     if tipo(dado) == "literal":

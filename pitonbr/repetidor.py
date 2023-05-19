@@ -1,7 +1,7 @@
-from piton import ValorIncorreto
-from piton import escreva
-from piton import tipo
-from piton.erro import TipoIncorreto
+from pitonbr import ValorIncorreto
+from pitonbr import escreva
+from pitonbr import tipo
+from pitonbr.erro import TipoIncorreto
 
 
 class repita:

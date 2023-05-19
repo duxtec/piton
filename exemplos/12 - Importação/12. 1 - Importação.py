@@ -1,7 +1,7 @@
-from piton.importador import importe
-from piton.importador import de
-from piton.escritor import limpe_tela
-from piton.escritor import escreva_e_pule_linha
+from pitonbr.importador import importe
+from pitonbr.importador import de
+from pitonbr.escritor import limpe_tela
+from pitonbr.escritor import escreva_e_pule_linha
 
 limpe_tela()
 

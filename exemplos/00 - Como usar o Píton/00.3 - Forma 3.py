@@ -1,6 +1,6 @@
 # Forma 3 - Importar todas as funcionalidades de um módulo do Píton.
 
-from piton.escritor import *
+from pitonbr.escritor import *
 
 # Ao importar dessa forma você vai usa-lo da seguinte forma:
 

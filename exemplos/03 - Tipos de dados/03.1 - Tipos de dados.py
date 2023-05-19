@@ -1,10 +1,10 @@
-from piton.tipo import tipo
-from piton.tipo import Nenhum
-from piton.escritor import escreva
-from piton.escritor import pule_linha
-from piton.repetidor import repita
-from piton.escritor import limpe_tela
-import piton
+from pitonbr.tipo import tipo
+from pitonbr.tipo import Nenhum
+from pitonbr.escritor import escreva
+from pitonbr.escritor import pule_linha
+from pitonbr.repetidor import repita
+from pitonbr.escritor import limpe_tela
+import pitonbr
 
 limpe_tela()
 
@@ -20,7 +20,7 @@ i = (1, 2)
 j = tipo
 k = repita
 l = repita()
-m = piton
+m = pitonbr
 n = Nenhum
 
 

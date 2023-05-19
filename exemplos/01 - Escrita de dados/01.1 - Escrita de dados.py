@@ -1,7 +1,7 @@
-from piton.escritor import escreva
-from piton.escritor import escreva_e_pule_linha
-from piton.escritor import pule_linha
-from piton.escritor import limpe_tela
+from pitonbr.escritor import escreva
+from pitonbr.escritor import escreva_e_pule_linha
+from pitonbr.escritor import pule_linha
+from pitonbr.escritor import limpe_tela
 
 limpe_tela()
 
