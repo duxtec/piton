@@ -1,7 +1,7 @@
 # Píton - Aprenda programação em Português!
 
 #
-![Píton Logo](piton/logo.jpg)
+![Píton Logo](pitonbr/logo.png)
 #
 
 Se você deseja aprender programação em Python em um ambiente completamente em português, a biblioteca Píton é a escolha certa para você! Com uma sintaxe próxima ao Python convencional, mas totalmente em português, a Píton torna o aprendizado de algoritmos e lógica de programação mais acessível e amigável para falantes da língua portuguesa.
