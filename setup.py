@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='piton',
+    name='pitonbr',
     version='1.0.0',
     description='A biblioteca Píton é uma ferramenta educacional para falantes de português que desejam aprender programação em Python. Com sintaxe próxima ao Portugol, ela oferece uma abordagem amigável e acessível, tornando o aprendizado de algoritmos e lógica de programação mais acessível para quem tem dificuldades com o inglês.',
     author='Dux Tecnologia',
