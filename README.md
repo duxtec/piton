@@ -4,6 +4,8 @@
 ![Píton Logo](pitonbr/logo.png)
 #
 
+Este projeto tem um projeto irmão chamado [BRscript](https://github.com/duxtec/piton). Ele compartilha a mesma proposta deste projeto, mas utiliza a linguagem Python.
+
 Se você deseja aprender programação em Python em um ambiente completamente em português, a biblioteca Píton é a escolha certa para você! Com uma sintaxe próxima ao Python convencional, mas totalmente em português, a Píton torna o aprendizado de algoritmos e lógica de programação mais acessível e amigável para falantes da língua portuguesa.
 
 #
